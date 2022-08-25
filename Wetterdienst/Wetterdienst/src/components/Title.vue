@@ -1,16 +1,16 @@
 <script setup lang="ts"></script>
 
 <template>
-    <div class="title">
-        <h1 style="color: rgb(0,0,0)">
-            🌞🌤️🌧️ Der nicht ganz so sonnige Wetterdienst! 🌞🌤️🌧️
-        </h1>
-    </div>
+  <div class="title">
+    <h1 style="color: rgb(0, 0, 0)">
+      🌞🌤️🌧️ Der WOLKIGE Wetterdienst! 🌞🌤️🌧️
+    </h1>
+  </div>
 </template>
 
 <style scoped>
-.title {
-    background-color: rgb(215, 0, 0);
+  .title {
+    background-color: rgb(255, 255, 255);
     margin-bottom: 50px;
     position: fixed;
     top: 0;
@@ -20,15 +20,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
-}
+  }
 
-.title h1 {
+  .title h1 {
     font-size: 18px;
-}
+  }
 
-@media (min-width: 1000px) {
+  @media (min-width: 1000px) {
     .title h1 {
-        font-size: 32px;
+      font-size: 32px;
     }
-}
+  }
 </style>
