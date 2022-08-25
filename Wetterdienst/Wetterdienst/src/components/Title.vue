@@ -10,7 +10,7 @@
 
 <style scoped>
 .title {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(215, 0, 0);
     margin-bottom: 50px;
     position: fixed;
     top: 0;
