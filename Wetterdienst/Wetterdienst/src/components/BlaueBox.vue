@@ -8,7 +8,7 @@
 
 <style scoped>
 .wetterheutecontainer {
-    background-color: rgb(248, 112, 0);
+    background-color: rgb(125, 192, 244);
     border: 4px solid black;
     border-radius: 10px;
     padding-top: 5px;
