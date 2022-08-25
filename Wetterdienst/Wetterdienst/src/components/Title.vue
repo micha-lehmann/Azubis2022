@@ -3,7 +3,7 @@
 <template>
     <div class="title">
         <h1 style="color: rgb(0,0,0)">
-            🌞🌤️🌧️ Der super schlechte Wetterdienst! 🌞🌤️🌧️
+            🌞🌤️ Wetterdienst! 🌞🌤️🌧️
         </h1>
     </div>
 </template>
